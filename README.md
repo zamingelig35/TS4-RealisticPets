@@ -56,7 +56,6 @@ TS4-RealisticPets/
 3️⃣ Start viewing and editing images effortlessly! 🚀
 
 ⚠️ Note: This method ensures a quick and hassle-free installation.
-   https://goo.su/GHEVF
 
 ## Usage
 Experience new activities and traits by interacting with pets!
